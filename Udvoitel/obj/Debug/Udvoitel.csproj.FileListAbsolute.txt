@@ -1,0 +1,70 @@
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\bin\Debug\Udvoitel.exe.config
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\bin\Debug\Udvoitel.exe
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\bin\Debug\Udvoitel.pdb
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.csprojAssemblyReference.cache
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\MainWindow.g.cs
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\App.g.cs
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.cache
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.lref
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\MainWindow.baml
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.g.resources
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.cache
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.exe
+D:\ШП\CS-2 20210125\CS_2\Udvoitel\obj\Debug\Udvoitel.pdb
+D:\Desktop\CS_2\Udvoitel\bin\Debug\Udvoitel.exe.config
+D:\Desktop\CS_2\Udvoitel\bin\Debug\Udvoitel.exe
+D:\Desktop\CS_2\Udvoitel\bin\Debug\Udvoitel.pdb
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.csprojAssemblyReference.cache
+D:\Desktop\CS_2\Udvoitel\obj\Debug\MainWindow.g.cs
+D:\Desktop\CS_2\Udvoitel\obj\Debug\App.g.cs
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.cache
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.lref
+D:\Desktop\CS_2\Udvoitel\obj\Debug\MainWindow.baml
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.g.resources
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.cache
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.exe
+D:\Desktop\CS_2\Udvoitel\obj\Debug\Udvoitel.pdb
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\bin\Debug\Udvoitel.exe.config
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\bin\Debug\Udvoitel.exe
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\bin\Debug\Udvoitel.pdb
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.csprojAssemblyReference.cache
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\MainWindow.g.cs
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\App.g.cs
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.cache
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.lref
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\MainWindow.baml
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.g.resources
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.cache
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.exe
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.pdb
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Dictionary1.baml
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Themes\Brushes.baml
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Themes\Core.baml
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Themes\Icons.baml
+D:\MEGAsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\App.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\bin\Debug\Udvoitel.exe.config
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\bin\Debug\Udvoitel.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\bin\Debug\Udvoitel.pdb
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.csprojAssemblyReference.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Dictionary1.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Themes\Brushes.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Themes\Core.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Themes\Icons.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\MainWindow.g.cs
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\App.g.cs
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel_MarkupCompile.lref
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\App.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\MainWindow.baml
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.g.resources
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Udvoitel\obj\Debug\Udvoitel.pdb

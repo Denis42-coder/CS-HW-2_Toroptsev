@@ -1,0 +1,7 @@
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\bin\Debug\HW-4.2.exe.config
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\bin\Debug\HW-4.2.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\bin\Debug\HW-4.2.pdb
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\obj\Debug\HW-4_3.csprojAssemblyReference.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\obj\Debug\HW-4_3.csproj.CoreCompileInputs.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\obj\Debug\HW-4.2.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\HW-4.2\obj\Debug\HW-4.2.pdb

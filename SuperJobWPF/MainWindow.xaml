@@ -1,0 +1,32 @@
+﻿<Window x:Class="SuperJobWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperJobWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="Open" x:Name="Open" Click="Open_Click"></MenuItem>
+                <MenuItem Header="Save As" x:Name="SaveAs" Click="SaveAs_Click" ></MenuItem>
+                <Separator />
+                <MenuItem Header="Exit" x:Name="Exit" Click="Exit_Click" ></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Ad Department" Click="MenuItem_Click" ToolTip="Работает"></MenuItem>
+                <MenuItem Header="Ad Emplooyers" IsEnabled="True" ToolTip="Редактируем в DataGrid" Click="MenuItem_Click_1"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <CheckBox x:Name="cbEditBase" Content="Редактировать базу данных" Margin="100,3,400,390" IsChecked="False" Unchecked="checkBox_Unchecked" Checked="checkBox_Checked"/>
+        <DataGrid x:Name="dgDBase" Margin="0,29,0,0" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" AutoGenerateColumns="false"  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}" Width="*" />
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name}" Width="*" />
+                <DataGridComboBoxColumn x:Name="dgComboBox" Header="Отдел" SelectedValueBinding="{Binding Path=GetDepName}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

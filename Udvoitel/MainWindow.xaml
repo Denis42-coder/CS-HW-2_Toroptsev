@@ -1,0 +1,49 @@
+﻿<Window x:Name="wndMain" x:Class="Udvoitel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Udvoitel"
+        mc:Ignorable="d"
+        Title="Udvoitel" Height="328.378" Width="461.622" Loaded="wndMain_Loaded">   
+    <StackPanel RenderTransformOrigin="0.5,0.5">
+        <Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="New" Click="wndMain_Loaded"/>
+                <MenuItem Header="Exit" Click="btnExit_Click"/>
+            </MenuItem>
+        </Menu>
+        <Grid Height="258">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*" />
+                <ColumnDefinition Width="20*" />
+                <ColumnDefinition Width="5*" />
+                <ColumnDefinition Width="20*"/>
+                <ColumnDefinition Width="5*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+            <Button Grid.Column="1" Grid.Row="1" Content="+1" x:Name="btnPlus" Click="btnPlus_Click"/>
+            <Button Grid.Column="1" Grid.Row="3" Content="x2" x:Name="btnMulti" Click="btnMulti_Click"/>
+            <Button Grid.Column="1" Grid.Row="5" x:Name="btnBack" Click="btnBack_Click">
+                <StackPanel>
+                    <Image Source="/Pictures/Move Previous (Arrow) Green64.png" Width="10" RenderTransformOrigin="-5.012,0.646"/>
+                    <TextBlock><Run Text="Назад"/></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Grid.Column="1" Grid.Row="7"  Content="Reset" x:Name="btnReset" Click="btnReset_Click"/>
+            <Button Grid.Column="3" Grid.Row="7"  Content="Exit" x:Name="btnExit" Click="btnExit_Click"/>
+            <TextBlock x:Name="tbFinish" Text="50" Grid.Column="3"  Grid.Row="1" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Height="26" Margin="72,10,71,0" Width="22" />
+            <TextBlock x:Name="tbCurrent" Text="50" Grid.Column="3" Grid.Row="3" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" Margin="78,4,71,10" Width="16" RenderTransformOrigin="6.733,0.395"/>
+        </Grid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="SuperJobWPF.wndNewDepartment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperJobWPF"
+        mc:Ignorable="d"
+        Title="Отдел" Height="125.701" Width="228.732">
+    <Grid Margin="0,0,2,0">
+        <Button Content="OK" Name="btnOkDep" HorizontalAlignment="Left" Margin="11,55,0,0" VerticalAlignment="Top" Width="76" Click="btnOkDep_Click" />
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="132,55,0,0" VerticalAlignment="Top" Width="74" Click="BtnCancel_Click" />
+        <ComboBox x:Name="cbDep" HorizontalAlignment="Left" Margin="11,17,0,0" VerticalAlignment="Top" Width="195" IsEditable="True"  SelectedValuePath="{Binding Path=GetDepName}" />
+
+    </Grid>
+</Window>

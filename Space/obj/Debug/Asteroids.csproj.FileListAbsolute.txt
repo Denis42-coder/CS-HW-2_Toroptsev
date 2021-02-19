@@ -1,0 +1,14 @@
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Space.Form1.resources
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Space.Properties.Resources.resources
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Space.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\obj\Debug\Space.pdb
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\bin\Debug\Images\milky-way-4920051_1920.jpg
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\bin\Debug\Images\fon.jpg
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\bin\Debug\Images\ship.png
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\bin\Debug\Images\star.png
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\Space.exe.config
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\Space.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\Space\bin\Debug\Space.pdb

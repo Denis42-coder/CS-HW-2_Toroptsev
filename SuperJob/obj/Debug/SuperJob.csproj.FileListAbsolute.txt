@@ -1,0 +1,10 @@
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\bin\Debug\SuperJob.exe.config
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\bin\Debug\SuperJob.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\bin\Debug\SuperJob.pdb
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.csprojAssemblyReference.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.Form1.resources
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.Properties.Resources.resources
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.csproj.GenerateResource.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.csproj.CoreCompileInputs.cache
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.exe
+D:\z\MEGsync\C# - учеба\008_C# Уровень 2_2021_01_26\CS-2_HW\CS-2_HW\SuperJob\obj\Debug\SuperJob.pdb
